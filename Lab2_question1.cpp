@@ -125,7 +125,6 @@ int main()
         {
              cout<<" \n you have entered an invalid key. \n try again " ;  // if one enters an invalid character
         }
-     cout<< " \n thank you for using this programme ";
      cout<< " \n if you want to continue press any key and then press 'enter' " ;  // to run the while loop again
      cout<< " \n if you want to exit press 'x' and then press 'enter' \n -> " ;   // to break the while loop
      cin>> chr; 
